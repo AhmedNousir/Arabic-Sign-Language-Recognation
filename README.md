@@ -5,3 +5,7 @@ Sign language consists of hand expressions and sometimes facial expressions of a
 dataset consists of 54,049 images of ArSL alphabets performed by more than 40 people for 32 standard Arabic signs and alphabets. The number of images per class differs from one class to another. Sample image of all Arabic Language Signs is also attached. The CSV file contains the Label of each corresponding Arabic Sign Language Image based on the image file name.
 
 Data link : https://data.mendeley.com/datasets/y7pckrw6z2/1
+
+
+# demonstration video
+https://drive.google.com/file/d/1RT4Vpqe_CF1DiUxQl2LKhPzJ_Wcp-tG0/view?fbclid=IwAR1IQ2q0OkZApxFZBTh4pARdlFLgNnOvjsnBAhiwdb-HtwT-uOke3cTUTaw
